@@ -2,7 +2,7 @@ import sys
 import os
 import importlib
 
-CURRENT_DAY=10
+CURRENT_DAY=11
 # sys.path.append('1')
 # day1 = __import__('day1')
 
@@ -57,7 +57,7 @@ def create(day):
 #         run(str(i), 'i', j)
 
 # create(str(CURRENT_DAY))
-run(str(CURRENT_DAY), 's', 1)
-run(str(CURRENT_DAY), 'i', 1)
-run(str(CURRENT_DAY), 's', 2)
+# run(str(CURRENT_DAY), 's', 1)
+# run(str(CURRENT_DAY), 'i', 1)
+# run(str(CURRENT_DAY), 's', 2)
 run(str(CURRENT_DAY), 'i', 2)
