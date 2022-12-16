@@ -58,6 +58,6 @@ def create(day):
 
 # create(str(CURRENT_DAY))
 # run(str(CURRENT_DAY), 's', 1)
-run(str(CURRENT_DAY), 'i', 1)
+# run(str(CURRENT_DAY), 'i', 1)
 # run(str(CURRENT_DAY), 's', 2)
-# run(str(CURRENT_DAY), 'i', 2)
+run(str(CURRENT_DAY), 'i', 2)
